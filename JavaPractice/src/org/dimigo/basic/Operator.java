@@ -8,7 +8,7 @@ package org.dimigo.basic;
  * org.dimigo.basic
  *   └ Operator
  *
- * 1. 개요 : 
+ * 1. 개요 : 디미베네 
  * 2. 작성일 : 2017. 3. 14.
  * </pre>
  *  
