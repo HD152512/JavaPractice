@@ -63,7 +63,6 @@ public class Loop {
 			default:
 				System.out.println("없는 메뉴입니다!!");
 				break;
-
 			}
 		} while (select != 9);
 	}
