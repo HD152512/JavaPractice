@@ -8,7 +8,7 @@ package org.dimigo.oop;
  * org.dimigo.oop
  *   └ IdolGroup
  *
- * 1. 개요 : 
+ * 1. 개요 : 아이돌 그룹 배열
  * 2. 작성일 : 2017. 4. 7.
  * </pre>
  *  
