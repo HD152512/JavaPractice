@@ -25,19 +25,18 @@ public class Melonchart {
 		list.add(new Music("I LUV IT", "PSY"));
 		list.add(new Music("맞지?", "언니쓰"));
 		
-		System.out.println("--<< 멜론 챠트 >>--");
+		System.out.println("--<<멜론 챠트>>--");
 		printList(list);
 		
-		System.out.println("\n--<< 2위 곡 추가 >--");
+		System.out.println("\n--<< 2위 곡 추가>--");
 		list.add(1, new Music("SIGNAL", "트와이스"));
 		printList(list);
 		
-		System.out.println("\n--<< 3위 곡 추가 >>--");
-		list.remove(2);
-		list.add(new Music("팔레트", "아이유"));
+		System.out.println("\n--<<3위 곡 추가>>--");
+		list.set(2, new Music("팔레트", "아이유"));
 		printList(list);
 		
-		System.out.println("\n--<< 전체 리스트 삭제 >>--");
+		System.out.println("\n--<<전체 리스트 삭제>>--");
 		list.clear();
 		
 	}
